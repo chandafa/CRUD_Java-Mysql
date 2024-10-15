@@ -1,0 +1,232 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "ATM",
+      "request": "launch",
+      "mainClass": "Array_Alpro1.ATM",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "arrayInt",
+      "request": "launch",
+      "mainClass": "Array_Alpro1.arrayInt",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "Barang",
+      "request": "launch",
+      "mainClass": "Array_Alpro2.Barang",
+      "projectName": "ALPROI_A",
+      "classPaths": ["lib/mysql-connector-j-9.0.0.jar"]
+    },
+    {
+      "type": "java",
+      "name": "arrBarang",
+      "request": "launch",
+      "mainClass": "Array_Alpro2.arrBarang",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "larikint",
+      "request": "launch",
+      "mainClass": "Array_Alpro2.larikint",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "RealCount1",
+      "request": "launch",
+      "mainClass": "Introduction.RealCount1",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "RealCount2",
+      "request": "launch",
+      "mainClass": "Introduction.RealCount2",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "RealCount3",
+      "request": "launch",
+      "mainClass": "Introduction.RealCount3",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "contoh1",
+      "request": "launch",
+      "mainClass": "Introduction.contoh1",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "percobaan2",
+      "request": "launch",
+      "mainClass": "Introduction.percobaan2",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "kalkulator",
+      "request": "launch",
+      "mainClass": "KalkulatorGUI.kalkulator",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "Segitiga",
+      "request": "launch",
+      "mainClass": "Modular.Segitiga",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "Segitiga2",
+      "request": "launch",
+      "mainClass": "Modular.Segitiga2",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "KelolaLing",
+      "request": "launch",
+      "mainClass": "ObjectOrientedProgramming.KelolaLing",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "KelolaLingkaran",
+      "request": "launch",
+      "mainClass": "ObjectOrientedProgramming.KelolaLingkaran",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "ObjectOrientedProgramming.Main",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "Segitiga5",
+      "request": "launch",
+      "mainClass": "ObjectOrientedProgramming.Segitiga5",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "GanjilGenap",
+      "request": "launch",
+      "mainClass": "Pengulangan.GanjilGenap",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "bilangan_genap",
+      "request": "launch",
+      "mainClass": "Pengulangan.bilangan_genap",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "menghitung_jam_menit_detik",
+      "request": "launch",
+      "mainClass": "Pengulangan.menghitung_jam_menit_detik",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "realcount_pengulangan",
+      "request": "launch",
+      "mainClass": "Pengulangan.realcount_pengulangan",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "GanjilGenap(1)",
+      "request": "launch",
+      "mainClass": "Percabangan.GanjilGenap",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "NilaiAkhir",
+      "request": "launch",
+      "mainClass": "Percabangan.NilaiAkhir",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "periksa_nama_bulan",
+      "request": "launch",
+      "mainClass": "Percabangan.periksa_nama_bulan",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "Titik",
+      "request": "launch",
+      "mainClass": "Record_Alpro1.Titik",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "JumlahHariBulan",
+      "request": "launch",
+      "mainClass": "Record_Alpro2.JumlahHariBulan",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "Mahasiswa",
+      "request": "launch",
+      "mainClass": "Record_Alpro2.Mahasiswa",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "ALPROI_A",
+      "request": "launch",
+      "mainClass": "com.mycompany.alproi_a.ALPROI_A",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "ArrayCustomer",
+      "request": "launch",
+      "mainClass": "tubes_alpro_atm.ArrayCustomer",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "Customer",
+      "request": "launch",
+      "mainClass": "tubes_alpro_atm.Customer",
+      "projectName": "ALPROI_A"
+    },
+    {
+      "type": "java",
+      "name": "Tubes_alpro_atm",
+      "request": "launch",
+      "mainClass": "tubes_alpro_atm.Tubes_alpro_atm",
+      "projectName": "ALPROI_A"
+    }
+  ]
+}
